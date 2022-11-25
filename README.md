@@ -1,1 +1,16 @@
 # core-code-from-scratch-readme
+- inicio - prepara una pizza de Jamon
+- comprar ingredientes
+- harina, aceite,agua, levadura, queso, salsa, jamon, chile verde y cebolla
+- colocar la cantidad adecuada de harina en un bowl
+- poner aceite,levadura y pizca de sal a la harina
+- amasar la mescla anterior hasta tener una mescla suave
+- dejar por una hora reposar
+- Amasamos y estiramos la masa
+- colocamos la salsa para pizza
+- colocamos queso
+- colocamos cebolla,jamon y chile verde
+- encendemos el horno a 170grados
+- colocamos la pizza en el horno por 20 min
+- sacamos la pizza del horno
+- Fin pizza jamon lista para comer
