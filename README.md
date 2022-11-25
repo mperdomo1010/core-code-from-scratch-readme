@@ -2,7 +2,7 @@
 - inicio - prepara una pizza de Jamon
 - comprar ingredientes
 - harina, aceite,agua, levadura, queso, salsa, jamon, chile verde y cebolla
-- colocar la cantidad adecuada de harina en un bowl
+- colocar 2 tazas de harina en un bowl
 - poner aceite,levadura y pizca de sal a la harina
 - amasar la mescla anterior hasta tener una mescla suave
 - dejar por una hora reposar
