@@ -18,14 +18,42 @@ pizza
 
 
 -------------------------------
-Convertir Celcius a Fahrenheit
+Convertir Celcius a Fahrenheit y viceversa
 - Inicio
-- Ingresar valor de grados celcius (T)
+- Ingresar valor de temperatura (T)
 - validar que el valor ingresado sea una temperatura o un numero valido (T)
-- Si es T valida
------aplicar la formula R= (T x 1.8) + 32
------Imprimir resultado formula R
-- Si No es T valido
------imprimir mensaje ingrese valor valido
------Vuelva a solicitar valor
+-- Si es T en Fahrenheit 
+-----aplicar la formula C= (T - 32) x .5556
+-----Imprimir resultado formula C temperatura en Centigrados
+-- Si T es en Centigrados
+-----aplicar la formula F= (T x 1.8) + 32
+-----Imprimir resultado formula F temperatura en Fahrenheit
+-- fin si
 - Fin 
+
+--------------------------------------------
+Volume of a Pyramid = 1/3 × Base length × Base width × height of the pyramid
+
+- inicio
+- solicitar valores para calcular Volumen P, Bl,bw,h
+- aplicar formula Volumen_P=1/3 × Bl × Bw × h
+- imprimir resultado formula Volumen_P
+- fin
+
+Volume of a Cube = a × a × a = a³
+
+- inicio
+- ingresar Lado de Cubo a
+- aplicar formula Volume of a Cube = a³
+- imprimir Volume of a Cube
+- Fin
+
+The volume of a sphere whose radius r is 4/3 
+
+- inicio
+- definir constante de π=3.141592
+- Ingresar radio de la esfera r
+- aplicar Formula de Volumen esfera = (4/3)x π x r³
+- imprimir volumen de esfera
+- fin
+
