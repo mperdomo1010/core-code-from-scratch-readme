@@ -57,3 +57,25 @@ The volume of a sphere whose radius r is 4/3
 - imprimir volumen de esfera
 - fin
 
+---------------------------------------------------------------
+Design an algorithm to check if a number is even or odd. If it is even, write that it is even, otherwise write that it is odd. Represent the algorithm in a flowchart.
+
+- inicio
+- ingresar numero
+- validar si numero es para o impar
+--- si es par
+-----imprimir numero par
+--- no es par
+-----imprimir numero impar
+---fin SI_NO
+--fin
+
+----------------------------------------------------------------
+Write pseudocode for an algorithm that calculates the age of a person based on date of birth
+
+- inicio
+- entrar fecha de nacimiento fn
+- obtener fecha actual fa
+- realizar calculo Edad=fn-fa
+- imprimir Edad
+- fin
