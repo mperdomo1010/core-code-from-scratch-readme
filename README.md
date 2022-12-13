@@ -79,3 +79,25 @@ Write pseudocode for an algorithm that calculates the age of a person based on d
 - realizar calculo Edad=fn-fa
 - imprimir Edad
 - fin
+
+-----------------pseudocodigo Form new_user-----
+Algoritmo new_user
+	
+	Escribir "Firstname"
+	leer Firstname
+	Escribir "Last_name"
+	leer Last_name
+	Escribir "Age"
+	leer Age
+	Escribir "Email"
+	leer Email
+	Escribir "Address"
+	Leer Address 
+	
+	Imprimir "Imprimir datos"
+	imprimir "Nombre:"+Firstname+" "+ Last_name
+	imprimir "Edad:"+Age
+	Imprimir "Email:"+Email
+	Imprimir "Direccion:"+Address
+	
+FinAlgoritmo
